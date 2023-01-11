@@ -13,13 +13,12 @@
 
 - A list of skills displayed as card, each with image and name.
 - The cards should be displayed as grid format.
-- Display all of my software engineering/business-related skills
+- Display all of my programming skills
 
 > Projects
 
-- A list of projects displayed as card, each with picture, name, and description.
-- The cards should be displayed as carousels.
-- List 4 of my projects.
+- A list of projects displayed as card, each with image, name, description, and link.
+- List 3 of my projects.
 
 > Contact
 

@@ -57,6 +57,11 @@ body {
   cursor: pointer;
 }
 
+.project:hover {
+  transform: scale(1.1);
+  transition: transform 0.2s ease;
+}
+
 .skill-img {
   height: 160px;
   width: 160px;
@@ -84,4 +89,8 @@ body {
 
 .skill-img-wide-3 {
   width: 220px;
+}
+
+.project-img {
+  height: 200px;
 }
