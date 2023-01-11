@@ -19,8 +19,3 @@
 
 - A list of projects displayed as card, each with image, name, description, and link.
 - List 3 of my projects.
-
-> Contact
-
-- A form that allows the user to include their email and message, which will be send to me (not handled on server).
-- The fields on the form will be validated.
