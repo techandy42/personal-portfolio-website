@@ -5,10 +5,6 @@ body {
 
 .fade-in-image {
   animation: fadeIn 3s;
-  -webkit-animation: fadeIn 3s;
-  -moz-animation: fadeIn 3s;
-  -o-animation: fadeIn 3s;
-  -ms-animation: fadeIn 3s;
 }
 
 @keyframes fadeIn {
@@ -54,4 +50,15 @@ body {
   100% {
     opacity: 1;
   }
+}
+
+.skill:hover {
+  background-color: rgb(66, 66, 66) !important;
+  cursor: pointer;
+}
+
+.skill-img {
+  aspect-ratio: 1/1;
+  max-height: 160px;
+  max-width: 160px;
 }
