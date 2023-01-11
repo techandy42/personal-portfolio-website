@@ -58,7 +58,30 @@ body {
 }
 
 .skill-img {
-  aspect-ratio: 1/1;
-  max-height: 160px;
-  max-width: 160px;
+  height: 160px;
+  width: 160px;
+}
+
+.skill-img-tall-1 {
+  width: 140px;
+}
+
+.skill-img-tall-2 {
+  width: 120px;
+}
+
+.skill-img-tall-3 {
+  width: 100px;
+}
+
+.skill-img-wide-1 {
+  width: 180px;
+}
+
+.skill-img-wide-2 {
+  width: 200px;
+}
+
+.skill-img-wide-3 {
+  width: 220px;
 }
